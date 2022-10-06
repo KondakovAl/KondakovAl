@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=KondakovAl&style=flat-square&color=blue" alt=""/>
 <!--
 **KondakovAl/KondakovAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
