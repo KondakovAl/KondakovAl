@@ -14,6 +14,10 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=KondakovAl&style=for-the-badge&color=blue" alt=""/>
+<div align="center">
+  <img src="https://media.giphy.com/media/ujvhLZGsTajgQ/giphy.gif" width="600" height="300"/>
+</div>
+
 <!--
 **KondakovAl/KondakovAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
