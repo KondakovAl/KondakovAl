@@ -15,7 +15,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=KondakovAl&style=for-the-badge&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
