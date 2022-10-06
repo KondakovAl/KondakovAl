@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"/>
+  <img src="https://media.giphy.com/media/zOBoaUjD6fgMOWdxRr/giphy.gif"/>
 </div>
 <div id="badges">
     <a href="https://t.me/JessePaul1">
